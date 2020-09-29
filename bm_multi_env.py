@@ -38,7 +38,6 @@ img_exploding_bomb = convert_to_rgba(mpimg.imread(IMAGE_DIR + 'exploding_bomb.pn
 img_hard_block = convert_to_rgba(mpimg.imread(IMAGE_DIR + 'hard_block.png'))
 img_soft_block = convert_to_rgba(mpimg.imread(IMAGE_DIR + 'soft_block.png'))
 img_exploding_tile = convert_to_rgba(mpimg.imread(IMAGE_DIR + 'exploding_tile.png'))
-img_ibm = convert_to_rgba(mpimg.imread(IMAGE_DIR + 'ibm.png'))
 img_wall = convert_to_rgba(mpimg.imread(IMAGE_DIR + 'wall_mid.png'))
 img_banner_wall = convert_to_rgba(mpimg.imread(IMAGE_DIR + 'wall_banner_blue.png'))
 img_wall_mid = convert_to_rgba(mpimg.imread(IMAGE_DIR + 'wall_mid.png'))
