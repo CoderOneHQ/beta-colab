@@ -15,4 +15,4 @@ Have fun!
 Follow our tutorial for instructions [here](https://colab.research.google.com/drive/1M5-V9GR6FDWA8DrtK31HcHlCaPmw8rA6?usp=sharing). 
 
 ## Contact 📧
-If you have any questions, suggestions, or feedback, please reach out at: hello@coderone.co
+If you have any questions, suggestions, or feedback, please reach out at: hello@gocoder.one
